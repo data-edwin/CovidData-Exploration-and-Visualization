@@ -8,11 +8,11 @@ Exploring covid-19 trends
 
 ## Exploration
 
-
+[Covid Data Exploration](https://github.com/uedwinc/CovidData-Exploration-and-Visualization/blob/main/Covid%20Data%20Exploration.sql)
 
 ## Visualization
 
-![Dashboard]()
+![Dashboard](https://github.com/uedwinc/CovidData-Exploration-and-Visualization/blob/main/Tableau%20Visualization%20files/Dashboard.png)
 
 ---
 
@@ -20,4 +20,4 @@ Exploring covid-19 trends
 
 ---
 
-MySQL Visualization Queries: 
+MySQL Visualization Queries: [Tableau Visualization Queries](https://github.com/uedwinc/CovidData-Exploration-and-Visualization/blob/main/Tableau%20Visualization%20Queries.sql)
